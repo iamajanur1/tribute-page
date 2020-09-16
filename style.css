@@ -1,0 +1,31 @@
+#title{
+     font-family:serif;
+  font-size:40px;
+}
+h4{
+  color:#00008b;
+  font-weight:600;
+  font-size:20px;
+}
+#image{
+ 
+  height:auto;
+  display:block;
+}
+p{
+  font-family:Helvetica;
+  font-size:14px
+}
+#external {
+  align-items:center;
+  font-size;50px;
+}
+#tribute-link{
+  font-size:15px;
+  font-family:sans-serif;
+}
+img{
+  max-width:100%;
+  display:block;
+  
+}
